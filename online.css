@@ -1,0 +1,132 @@
+#cont{
+    width: 400px;
+    height: 600px;
+    background-color: black;
+    margin-left: 400px;
+    display: flex;
+    border-radius: 4%;
+ 
+    
+}
+.around{
+    width: 380px;
+    height: 580px;
+    background-color:RGB(111,85,86);
+    border-radius: 3px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display:flex;
+    
+    
+
+}
+.middle { 
+    background-color:RGB(143,110,111);
+    width: 329px;
+    height: 480px;
+    margin-top: 40px;
+   margin-left:-195px;
+   display: flex;
+   border-radius: 3px;
+
+}
+#b1 input[type=button]{
+    margin-left: 150px;
+    width: 50px;
+    height:17px;
+    margin-top: 3px;
+    border-radius: 10px;
+    background-color: black;
+}
+
+#b2 input[type=button]{
+margin-top:530px;
+margin-left: 150px;
+width: 45px;
+height: 20px;
+border-radius: 10px;
+background-color: black;
+border-color: white;
+}
+#r input[type=radio]{
+background-color: rgb(119, 101, 92);
+margin-left: 50px;
+width: 20px;
+height: 20px;
+border-radius: 100px;
+}
+#fuser{
+margin-left:20px;
+margin-top:100px;
+font-size: 25px;
+font-family: verdana;
+border-top:none;
+border-left: none;
+border-right: none;
+}
+
+#fpas{
+margin-left:-160px;
+margin-top:120px;
+font-size: 25px;
+font-family: Verdana;
+
+}
+#input{
+    margin-top: 270px;
+    margin-left: -160px;
+    width: 100px;
+    height: 50pxpx;
+    border-radius: 10px;
+}
+#in{
+    margin-top: 200px; 
+    margin-left: -100px; 
+    width: 300px;
+    border-radius: 10px;
+    
+}
+#google{
+    margin-top: 410px;
+    margin-left: -300px;
+    color: aliceblue;
+    font-family: verdana;
+    background-color:RGB(70,104,209);
+    height: 20px;
+
+    
+}
+
+#fb{
+    margin-top: 450px;
+    margin-left: -178px;
+    
+    display: verdana;
+    color:white;
+    
+    font-family: verdana;
+    background-color:RGB(52,81,158);
+    height: 20px;
+
+}
+#h{
+    margin-top: 110px;
+    font-family: verdana;
+    color: white ;
+}
+
+#imeg{
+    margin-left:-300px;
+    margin-top:5px;
+    height: 80px;
+    
+
+    
+    
+    
+}
+#h2{
+color:white;
+font-family: verdana;
+margin-top: 10px;
+}
